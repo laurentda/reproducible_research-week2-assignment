@@ -2,7 +2,9 @@
 title: "Assignment week 2"
 author: "Laurent Dreveton-Amzalac"
 date: "23 octobre 2017"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
